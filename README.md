@@ -200,8 +200,11 @@ The relationship between interest rates and expected profit illustrates the prin
 # Key Model Results
 
 PD Model ROC-AUC: ~0.70
+
 LGD Model RMSE: ~0.094
+
 Portfolio Expected Loss: ~$1.33B
+
 Average Expected Loss per Loan: ~$2,565
 
 # Key Insights
