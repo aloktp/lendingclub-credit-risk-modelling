@@ -15,7 +15,7 @@ The analysis combines machine learning and financial risk modelling to estimate:
 
 The project ultimately evaluates whether a lending portfolio generates enough interest income to offset expected credit losses.
 
-![LendingClub Portfolio Summary](outputs/LendingClub Portfolio Summary.png)
+![LendingClub Portfolio Summary](outputs/LendingClub_Portfolio_Summary.png)
 
 ---
 
